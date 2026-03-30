@@ -176,22 +176,6 @@ Graduated 2023
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedHamid4&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedHamid4&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
