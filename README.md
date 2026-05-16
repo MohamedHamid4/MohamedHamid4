@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Mohamed+Hamid;Senior+Flutter+%26+Mobile+Engineer;Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+Firebase;Building+production-grade+mobile+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=850&lines=Mohamed+Hamid;Senior+Flutter+%26+Mobile+Engineer;Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+Firebase;Building+production-grade+mobile+apps" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <em>Flutter Engineer crafting performant, production-grade mobile applications.</em><br/>
-  <em>Specialized in <b>Clean Architecture</b>, scalable state management, and end-to-end product delivery.</em>
+  <b>I ship mobile products — and they scale.</b><br/>
+  <em>Six production Flutter apps across six categories: real-time chat, video editing, finance, notes, weather, and AI utilities.</em><br/>
+  <em>Architecture-first. Performance-aware. Built to ship.</em>
 </p>
 
 <p>
@@ -19,7 +20,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=MohamedHamid4&label=Profile+Views&color=0EA5E9&style=flat-square" />
   <img src="https://img.shields.io/github/followers/MohamedHamid4?label=Followers&style=flat-square&color=0EA5E9" />
-  <img src="https://img.shields.io/badge/Based_in-Palestine_%F0%9F%87%B5%F0%9F%87%B8-0EA5E9?style=flat-square" />
   <img src="https://img.shields.io/badge/Open_to-Remote_Work-22c55e?style=flat-square" />
 </p>
 
@@ -27,16 +27,15 @@
 
 ---
 
-## `> whoami`
+## 👨‍💻 About Me
 
 ```yaml
 name:        Mohamed Hamid
 role:        Flutter & Mobile Applications Engineer
-location:    Palestine 🇵🇸
-experience:  2+ years building cross-platform mobile applications
+experience:  3+ years building cross-platform mobile applications
 focus:       Production apps · Clean Architecture · Performance engineering
-education:   B.Sc. Mobile Apps (in progress) · Diploma in Software Engineering
-languages:   Dart, Arabic, English
+education:   B.Sc. Mobile Applications Design & Programming (in progress)
+             Diploma in Software & Databases (Graduated 2023)
 ```
 
 I build **production-grade mobile applications** with a strong focus on architecture, performance, and user experience. My portfolio spans **six different product categories** — finance, notes, weather, bill-splitting, real-time chat, and video editing — all bound by a consistent engineering practice: Clean Architecture, offline-first data flow, real-time Firebase systems, and AI integrated where it genuinely adds value.
@@ -54,7 +53,7 @@ I build **production-grade mobile applications** with a strong focus on architec
 
 <table>
   <tr>
-    <td align="left" width="170"><b>📱 Mobile</b></td>
+    <td align="left" width="200"><b>📱 Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -63,37 +62,53 @@ I build **production-grade mobile applications** with a strong focus on architec
     </td>
   </tr>
   <tr>
-    <td align="left"><b>🧠 State & Arch</b></td>
+    <td align="left"><b>🏗️ Architecture & State</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Riverpod-7C5CFF?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Clean_Architecture-1e293b?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/MVVM-1e293b?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Repository_Pattern-1e293b?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Riverpod-7C5CFF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
-    <td align="left"><b>☁️ Backend</b></td>
+    <td align="left"><b>☁️ Backend & Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Realtime_DB-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
-    <td align="left"><b>🗄️ Databases</b></td>
+    <td align="left"><b>🌐 Networking & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>🗄️ Databases & Storage</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SharedPreferences-22c55e?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
-    <td align="left"><b>🤖 AI & Integrations</b></td>
+    <td align="left"><b>🤖 AI</b></td>
     <td>
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>🔌 3rd-Party Integrations</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
       <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white"/>
       <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
@@ -101,13 +116,13 @@ I build **production-grade mobile applications** with a strong focus on architec
     </td>
   </tr>
   <tr>
-    <td align="left"><b>🧰 Tooling</b></td>
+    <td align="left"><b>🧰 Dev Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -541,7 +556,7 @@ Testing             →   Unit tests for business logic · widget tests for them
 **B.Sc. — Mobile Applications Design & Programming** &nbsp;·&nbsp; *Expected 2026*
 University College of Applied Sciences
 
-**Diploma — Software Development & Databases** &nbsp;·&nbsp; *Graduated 2023*
+**Diploma — Software & Databases** &nbsp;·&nbsp; *Graduated 2023*
 University College of Applied Sciences
 
 ---
