@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://mohamedhamid4.github.io/MohamedHamid.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://mohamedhamid.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohamed-hamid-3bb3aa243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohamedhamidofficial4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/MohamedHamid4"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -595,7 +595,7 @@ University College of Applied Sciences
 Open to remote work, freelance contracts, and collaborations on serious mobile products.
 
 <p align="center">
-  <a href="https://mohamedhamid4.github.io/MohamedHamid.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://mohamedhamid.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohamed-hamid-3bb3aa243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohamedhamidofficial4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -603,7 +603,5 @@ Open to remote work, freelance contracts, and collaborations on serious mobile p
 <div align="center">
 
 <br/>
-
-<em>Built with care from Palestine 🇵🇸</em>
 
 </div>
